@@ -1,0 +1,31 @@
+.react-datepicker-popper .react-datepicker {
+	display: flex;
+}
+
+.react-datepicker__header--time {
+	display: none;
+}
+
+.supt-datetimepickercontrol .react-datepicker__input-container {
+	align-items: center;
+	border: 1px solid #757575;
+	border-radius: 2px;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+	min-height: 36px;
+}
+.supt-datetimepickercontrol .react-datepicker__close-icon::after {
+	padding-top: 1px;
+	padding-bottom: 3px;
+}
+
+.supt-datetimepickercontrol .components-button {
+	color: #333;
+	text-decoration: none;
+	width: 100%;
+}
+.supt-datetimepickercontrol .components-button svg {
+	margin: 4px 0 4px 8px;
+}
+

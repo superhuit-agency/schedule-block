@@ -1,0 +1,33 @@
+{
+    "translation-revision-date": "2022-10-10 16:38+0200",
+    "generator": "WP-CLI\/2.6.0",
+    "source": "dist\/editor.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "fr_FR",
+                "plural-forms": "nplurals=2; plural=(n > 1);"
+            },
+            "from %s": [
+                "\u00e0 partir du %s"
+            ],
+            "until %s": [
+                "jusqu\u2019au %s"
+            ],
+            "Schedule options set to display this section %s": [
+                "Planification d\u00e9finies pour afficher cette section %s"
+            ],
+            "Schedule": [
+                "Planifier"
+            ],
+            "Start showing": [
+                "Afficher \u00e0 partir du"
+            ],
+            "End showing": [
+                "Afficher jusqu\u2019au"
+            ]
+        }
+    }
+}

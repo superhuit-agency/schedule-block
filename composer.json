@@ -1,0 +1,27 @@
+{
+    "name": "superhuit-agency/schedule-block",
+    "description": "Add scheduling options to WordPress blocks (Gutenberg)",
+    "version": "1.0.0",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "superhuit",
+            "email": "tech@superhuit.ch"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "SUPT\\ScheduleBlock\\": "includes/"
+        },
+        "classmap": [
+            "includes/"
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "require-dev": {
+        "superhuit/nextjs-revalidate": "^1.0"
+    }
+}
